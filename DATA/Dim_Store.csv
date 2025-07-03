@@ -1,0 +1,21 @@
+Store ID,Region,Store_Id_Region
+S001,West,S001_West
+S001,East,S001_East
+S001,South,S001_South
+S001,North,S001_North
+S002,South,S002_South
+S002,East,S002_East
+S002,North,S002_North
+S002,West,S002_West
+S003,South,S003_South
+S003,North,S003_North
+S003,East,S003_East
+S003,West,S003_West
+S004,West,S004_West
+S004,East,S004_East
+S004,South,S004_South
+S004,North,S004_North
+S005,South,S005_South
+S005,West,S005_West
+S005,East,S005_East
+S005,North,S005_North
